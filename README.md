@@ -1,4 +1,5 @@
-## Hi there 👋
+THE PROD SQAUD
+
 The Prod Squad is revolutionizing how music producers get paid. Purchase our premium sound loop kits, create fire beats, submit them for review, and get paid instantly in $PROD tokens when approved. No waiting. No gatekeepers. Just pure creative compensation. 
 
 What is $PROD?
