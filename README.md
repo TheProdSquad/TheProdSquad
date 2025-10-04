@@ -1,16 +1,20 @@
 ## Hi there 👋
+The Prod Squad is revolutionizing how music producers get paid. Purchase our premium sound loop kits, create fire beats, submit them for review, and get paid instantly in $PROD tokens when approved. No waiting. No gatekeepers. Just pure creative compensation. 
 
-<!--
-**TheProdSquad/TheProdSquad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What is $PROD?
 
-Here are some ideas to get you started:
+$PROD is the native token powering The Prod Squad ecosystem. With a maximum supply of 144 million tokens, $PROD enables immediate compensation for talented producers who collaborate with us. It's not just a token—it's your gateway to getting paid for your craft in real-time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+How It Works
+
+1. Purchase → Buy high-quality sound loop kits from The Prod Squad
+2. Create → Craft your beats using our premium sounds
+3. Submit → Send your finished tracks for our team to review
+4. Earn → Get paid in $PROD tokens when your beat gets approved
+
+
+Token
+
+• Maximum Supply: 144,000,000 PROD
+• Token Symbol: $PROD
